@@ -43,7 +43,7 @@ Classic method
 
 ### Requirements
 
-- Node 18.17.1
+- [Node lts alpine](https://hub.docker.com/_/node?tab=description&name=lts-alpine&page=1) tag is constantly updating, so you need to check it.
 - yarn >= 1.22.19
 
 ### Procedure
