@@ -1,0 +1,12 @@
+version: "3.8"
+services:
+  frontend:
+    container_name: frontend-CodeChallenge
+    build:
+      context: .
+      target: development
+    volumes:
+      - ./src:/frontend/src
+      - ./public:/frontend/public
+    ports:
+      - "3000:3000"
