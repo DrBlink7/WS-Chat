@@ -11,7 +11,7 @@ const Copyright: FC = () => (
     <Link
       variant="body2"
       color="text.secondary"
-      href="https://github.com/matteogatti-confidence/andrea.manna"
+      href="Chat Example"
       margin="0 1.3vh 0 1.3vh"
     >
       Simple Chat

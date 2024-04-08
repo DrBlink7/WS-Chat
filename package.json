@@ -1,9 +1,8 @@
 {
-  "name": "andrea.manna",
+  "name": "frontend",
   "version": "0.0.1",
   "main": "index.js",
-  "repository": "https://github.com/matteogatti-confidence/andrea.manna.git",
-  "author": "amanna7 <andrea.manna@etiqa.it>",
+  "author": "https://github.com/DrBlink7",
   "scripts": {
     "start": "craco start",
     "build": "craco build",
